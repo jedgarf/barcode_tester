@@ -1,1 +1,1 @@
-# barcode_tester
+# Web-Based Barcode Tester (For Hardware Checking)
